@@ -9,7 +9,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
      Button button; // 버튼 선언
-    TextView textview ; // 창희꺼
+    TextView textview ; // 창희꺼에유
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
